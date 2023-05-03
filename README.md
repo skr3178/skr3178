@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skr3178
 - 👀 I’m interested in bioinformatics-ML.
-- 🌱 I’m currently learning oxford nanopore.
+- 🌱 I’m currently learning protein GPT and microbiomes.
 - 💞️ I’m looking to collaborate on wet lab/algorithm for genomic data
 - 📫 How to reach me @sangramkr1992@gmail.com
 
