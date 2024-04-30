@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics-ML.
 - 🌱 I’m currently learning protein GPT and microbiomes.
 - 💞️ I’m looking to collaborate on wet lab/algorithm for genomic data
-- 📫 How to reach me @sangramkr1992@gmail.com
+- 📫 How to reach me @sangram.kr.rout@gmail.com
 
 <!---
 skr3178/skr3178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
