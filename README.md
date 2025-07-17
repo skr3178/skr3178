@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @skr3178
-- 👀 I’m interested in Robotics-ML.
-- 🌱 I’m currently learning RL and transformers.
+- 👀 I’m interested in Robotics & ML.
+- 🌱 I'm currently working on Multi-agent Learning & Evaluation.
+- ⚽ Also check out my open sourced reinforcement learning repository: [RL-REPO](https://github.com/skr3178/reinforcement_learning.git).
 - 📫 How to reach me @sangram.kr.rout@gmail.com
 
 <!---
